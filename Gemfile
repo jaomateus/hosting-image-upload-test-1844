@@ -23,7 +23,7 @@ gem "turbo-rails"
 # Hotwire's modest JavaScript framework [https://stimulus.hotwired.dev]
 gem "stimulus-rails"
 
-# fw gems
+# fw gems fsdfsef
 gem "bootstrap", "~> 5.2"
 gem "simple_form"
 gem "sassc-rails"
